@@ -60,7 +60,7 @@ node app.js
 ### Configuration&&database
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/13.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/14.PNG)
-### Tests
+## Tests
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/15.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/16.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/17.PNG)
@@ -71,5 +71,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
