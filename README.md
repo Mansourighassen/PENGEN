@@ -45,11 +45,19 @@ just cd to the folder and run
 
 node app.js
 ```
-## Usage
+## Output
+### Controller
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/9.PNG)
+
+### Model
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/10.PNG)
+
+### Routes
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/11.PNG)
+
+### App.js
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/12.PNG)
+### Configuration file
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/13.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/14.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/15.PNG)
