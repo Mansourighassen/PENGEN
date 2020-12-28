@@ -25,9 +25,35 @@ git clone  https://github.com/Mansourighassen/PENGEN.git
 
 ```
 node index.js
-
+*Enter projectname
+*Choose PostgreSQL(the only working option !!)
 ```
-![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/1.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/2.PNG)
+
+## Enter db_configuration && generate Model
+
+
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/3.PNG)
+## Fill the model form
+
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/7.PNG)
+Now we have a working project 
+just cd to the folder and run 
+```
+
+node app.js
+```
+## Usage
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/8.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/9.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/10.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/11.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/12.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/13.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/14.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/15.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/16.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/17.PNG)
 
 
 ## Contributing
