@@ -57,9 +57,10 @@ node app.js
 
 ### App.js
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/12.PNG)
-### Configuration file
+### Configuration&&database
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/13.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/14.PNG)
+### Tests
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/15.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/16.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/17.PNG)
