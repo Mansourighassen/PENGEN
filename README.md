@@ -10,4 +10,4 @@
 ==>initialise a full project
 ``````
 # USAGE
-![alt text](https://github.com/Mansourighassen/PENGEN/screenshots/1.jpg?raw=true)
+![alt text](https://github.com/Mansourighassen/PENGEN/main/screenshots/1.jpg?raw=true)
