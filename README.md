@@ -37,6 +37,8 @@ node index.js
 ## Fill the model form
 
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/7.PNG)
+![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/8.PNG)
+
 Now we have a working project 
 just cd to the folder and run 
 ```
@@ -44,7 +46,6 @@ just cd to the folder and run
 node app.js
 ```
 ## Usage
-![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/8.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/9.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/10.PNG)
 ![](https://raw.githubusercontent.com/Mansourighassen/PENGEN/main/screenshots/11.PNG)
